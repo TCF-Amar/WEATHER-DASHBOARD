@@ -1,19 +1,5 @@
 #  Weather Web App
 
-COMPANY: CODTECH ITSOLUTIONS
-
-NAME: Amarjeet Mistri
-
-INTERN ID: CT04WS26
-
-DOMAIN: React.js Web Development
-
-DURATION: 4 WEEKS
-
-MENTOR: NEELA SANTOSH
-
-### Output
-
 ![Image](https://github.com/user-attachments/assets/1d550271-802f-414c-b3ba-cfe828d00966)
 
 A modern weather application built with React and Vite that provides real-time weather information.
